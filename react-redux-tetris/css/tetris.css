@@ -64,6 +64,19 @@ body {
 
 #tetris-point-panel {
   float: left;
+  width: 120px;
+  padding: 5px;
+}
+
+#tetris-howto {
+  float: left;
+  width: 120px;
+  padding: 5px;
+}
+
+#tetris-control-panel {
+  float: left;
+  width: 120px;
   padding: 5px;
 }
 
